@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**duminduyasas42/duminduyasas42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about any issue in python or java
 - 📫 How to reach me: duminduyasas42@gmail.com
 - ⚡ Fun fact: as long as you work hard we will get along
--->
+
+<!--
+**duminduyasas42/duminduyasas42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
